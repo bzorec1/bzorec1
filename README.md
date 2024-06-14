@@ -1,4 +1,4 @@
-## Blaž Zorec
+# Blaž Zorec
 ### Digital Craftsman (Developer/Gamer)
 
 I'm an full-stack developer specializing in .NET building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing to solving real-life problems with code. My journey is a continuous process of learning and creating.
