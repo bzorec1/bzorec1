@@ -1,1 +1,1 @@
-# Blaž-Zorec
+# Blaz-Zorec
