@@ -1,22 +1,27 @@
 # Blaž Zorec
-### Digital Craftsman (Developer/Gamer)
+### Digital Craftsman (Full-Stack Developer / Gamer)
 
-I'm an full-stack developer specializing in .NET building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing to solving real-life problems with code. My journey is a continuous process of learning and creating.
+I'm a full-stack developer specializing in **.NET** while also exploring **Flutter for multi-platform development**. My passion is creating digital solutions from scratch—solving real-world problems with clean and efficient code.
 
-- 🔭 I’m currently working on [eat-ease](https://github.com/bzorec1/eat-ease)
-- 🌱 I’m currently learning **Docfx, podman, kubernetes**
-- 📫 How to reach me **blaz.zorec2002@gmail.com**
+- 🔭 I’m currently working on **[scan_it](https://github.com/bzorec1/scan_it)** (Flutter)
+- 🌱 I’m currently learning **Flutter**
+- 📫 How to reach me: **blaz.zorec2002@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+## 🛠️ Technologies & Tools:
+### **Primary Stack**
 <p align="left">
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
 
+### **Other Tools & Technologies**
 <details>
   <summary>More Languages and Tools</summary>
   <p align="left">
@@ -100,7 +105,33 @@ I'm an full-stack developer specializing in .NET building my version of the digi
     </a>
   </p>
 </details>
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bzorec1&show_icons=true&locale=en&count_private=true" alt="bzorec1" />
+
+---
+
+## 📊 GitHub Stats:
+<p align="center">
+  <a href="https://github.com/bzorec1">
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=bzorec1&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
+  </a>
+  <a href="https://github.com/bzorec1">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=bzorec1&layout=compact&langs_count=8&card_width=320&theme=dark" />
+  </a>
 </p>
 
+---
+
+## 🚀 Featured Projects:
+### 🏗️ .NET Projects
+<a href="https://github.com/bzorec1/trading-reporter">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bzorec1&repo=trading-reporter&theme=dark" />
+</a>
+<a href="https://github.com/bzorec1/namarjak-xpress">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bzorec1&repo=namarjak-xpress&theme=dark" />
+</a>
+
+### 📱 Flutter Projects
+<a href="https://github.com/bzorec1/scan_it">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bzorec1&repo=scan_it&theme=dark" />
+</a>
+
+---
