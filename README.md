@@ -4,7 +4,7 @@
 I'm a full-stack developer specializing in **.NET** while also exploring **Flutter for multi-platform development**. My passion is creating digital solutions from scratch—solving real-world problems with clean and efficient code.
 
 - 🔭 I’m currently working on **[scan_it](https://github.com/bzorec1/scan_it)** (Flutter)
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter** and enjoing building .net projects using **MassTransit**
 - 📫 How to reach me: **blaz.zorec2002@gmail.com**
 
 ---
@@ -109,29 +109,24 @@ I'm a full-stack developer specializing in **.NET** while also exploring **Flutt
 ---
 
 ## 📊 GitHub Stats:
-<p align="center">
   <a href="https://github.com/bzorec1">
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=bzorec1&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
   </a>
   <a href="https://github.com/bzorec1">
     <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=bzorec1&layout=compact&langs_count=8&card_width=320&theme=dark" />
   </a>
-</p>
 
 ---
 
 ## 🚀 Featured Projects:
 ### 🏗️ .NET Projects
-<a href="https://github.com/bzorec1/trading-reporter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bzorec1&repo=trading-reporter&theme=dark" />
+<a href="https://github.com/bzorec1/final-say">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bzorec1&repo=final-say&theme=dark" />
 </a>
 <a href="https://github.com/bzorec1/namarjak-xpress">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=bzorec1&repo=namarjak-xpress&theme=dark" />
 </a>
 
 ### 📱 Flutter Projects
-<a href="https://github.com/bzorec1/scan_it">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bzorec1&repo=scan_it&theme=dark" />
-</a>
 
 ---
