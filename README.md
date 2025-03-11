@@ -100,4 +100,7 @@ I'm an full-stack developer specializing in .NET building my version of the digi
     </a>
   </p>
 </details>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bzorec1&show_icons=true&locale=en" alt="bzorec1" /></p>
+<p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bzorec1&show_icons=true&locale=en&count_private=true" alt="bzorec1" />
+</p>
+
