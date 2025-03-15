@@ -6,7 +6,7 @@ I'm a full-stack developer specializing in **.NET** while also exploring **Flutt
 - 🔭 I’m currently working on **[scan_it](https://github.com/bzorec1/scan_it)** (Flutter)
 - 🌱 I’m currently learning **Flutter** and enjoing building .net projects using **MassTransit**
 - 📫 How to reach me: **blaz.zorec2002@gmail.com**
-
+- **[☕ Support my work with a coffee!](https://buymeacoffee.com/bzorec)**
 ---
 
 ## 🛠️ Technologies & Tools:
